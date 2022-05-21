@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Him-8046
-- 👀 I’m interested in BI analyst
+- 👀 I’m interested in data analyst
 - 🌱 I’m currently learning powerBI,python,ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
